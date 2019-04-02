@@ -5,28 +5,4 @@
 
 
 def number_recursion(n):
-    # Base Case print(0) 
-    if n == 0:
-        print(0)
-
-    # Recursive case    
-    else:
-        number_recursion(n-1)
-        print(n)
-        
-
-
-
-def number_loop(n):
-    for i in range(0, n, -1):
-        print(i)
-
-
-def main():
-    number_recursion(5)
-
-    #number_loop(5)
-
-
-if __name__ == "__main__":
-    main()
+   pass
