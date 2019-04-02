@@ -5,4 +5,8 @@
 
 
 def number_recursion(n):
-   pass
+        pass
+
+
+def number_loop(n):
+        pass
